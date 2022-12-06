@@ -1,0 +1,9 @@
+### Post "Privet!"
+
+PUT http://localhost:8080/financiamento/pagar/2&2
+Content-Type: application/json
+
+{
+  "text": "OK"
+}
+
